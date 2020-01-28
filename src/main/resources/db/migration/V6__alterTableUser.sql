@@ -1,0 +1,3 @@
+ALTER TABLE users ADD COLUMN test INT AFTER mobile;
+ALTER TABLE users ADD COLUMN test1 INT AFTER mobile;
+ALTER TABLE users ADD COLUMN test2 INT AFTER mobile;
